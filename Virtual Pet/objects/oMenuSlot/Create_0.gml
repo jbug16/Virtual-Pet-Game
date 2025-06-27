@@ -1,5 +1,4 @@
-var item_info = global.item_data[$ item];
-
-sprite = item_info.sprite;
-obj = item_info.obj;
-price = item_info.price;
+itemType = "none"; // Should be set by menu
+price = 0;
+local_x = 0;
+local_y = 0;

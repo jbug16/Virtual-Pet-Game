@@ -1,8 +1,5 @@
+// State
 state = "sitting";
-state_timer = 0;
-move_speed = 1;
 
-target_x = x;
-target_y = y;
-
+// Grid
 grid_size = 64;

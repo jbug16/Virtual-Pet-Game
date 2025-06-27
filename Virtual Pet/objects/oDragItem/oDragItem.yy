@@ -1,9 +1,12 @@
 {
   "$GMObject":"",
-  "%Name":"oFurniture",
-  "eventList":[],
+  "%Name":"oDragItem",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"oFurniture",
+  "name":"oDragItem",
   "overriddenProperties":[],
   "parent":{
     "name":"Items",
@@ -27,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"sFurniture",
-    "path":"sprites/sFurniture/sFurniture.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

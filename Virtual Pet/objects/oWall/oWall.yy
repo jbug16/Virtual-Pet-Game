@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"oFurniture",
+  "%Name":"oWall",
   "eventList":[],
   "managed":true,
-  "name":"oFurniture",
+  "name":"oWall",
   "overriddenProperties":[],
   "parent":{
-    "name":"Items",
-    "path":"folders/Objects/Items.yy",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sFurniture",
-    "path":"sprites/sFurniture/sFurniture.yy",
+    "name":"sWall",
+    "path":"sprites/sWall/sWall.yy",
   },
   "spriteMaskId":null,
   "visible":true,
